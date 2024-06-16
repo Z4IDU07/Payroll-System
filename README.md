@@ -10,22 +10,13 @@ The Employee Payroll System is a desktop application developed using the Java Sw
    - Secure login functionality for both employees and administrators.
    - Role-based access control to ensure appropriate access to system features.
 
-   ![login](https://github.com/Z4IDU07/Payroll-System/assets/95475723/8739735d-0148-4fa5-81db-cd8be7ba054c)
-
-
 2. **Payroll Slip Generation:**
    - Automated generation of payroll slips in PDF format.
    - Detailed breakdown of salary components including basic pay, allowances, and deductions.
 
-   ![image](https://github.com/Z4IDU07/Payroll-System/assets/95475723/12e3e265-5f9e-4da4-958c-dd622d70f3c4)
-
-   
 3. **Employee Management:**
    - Add, update, and remove employee records.
    - Store and manage detailed employee information including personal and employment details.
-  
-     ![image](https://github.com/Z4IDU07/Payroll-System/assets/95475723/8623fa52-5a1e-44b7-9ddc-1f249ea12e4c)
-
 
 4. **Updating Salary:**
    - Update salary details for individual employees.
